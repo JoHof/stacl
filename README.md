@@ -11,13 +11,13 @@ This is a Matlab(c) implementation and works with Matlab 2015 and newer. Input t
 Examples for each of these three modes are given in the "example.m" file. The main advantage of this method is, that the number of clusters will be determined automatically. 
 
 ## Examples
-Results for toy datasets:
+Results for toy datasets without specifically optimizing the parameters for each dataset. For the results based on generated data and for results based on subsampling. Only one set of parameters for each was used.  
 
 When data can be generated:
 ![Toy 1](https://github.com/JoHof/stacl/blob/master/figures/toy_1_generated.jpg)
 ![Toy 2](https://github.com/JoHof/stacl/blob/master/figures/toy_2_generated.jpg)
 
-When only one dataset is availabe ans subsampling is performed:
+When only one dataset is availabe and subsampling is performed:
 ![Toy 1](https://github.com/JoHof/stacl/blob/master/figures/toy_1_subsampled.jpg)
 ![Toy 2](https://github.com/JoHof/stacl/blob/master/figures/toy_2_subsampled.jpg)
 
