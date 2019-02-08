@@ -12,4 +12,14 @@ Examples for each of these three modes are given in the "example.m" file.
 
 ## Examples
 Results for toy datasets:
-Dataset 1. 
+
+When data can be generated:
+![Toy 1](https://github.com/JoHof/stacl/blob/master/figures/toy_1_generated.jpg)
+![Toy 2](https://github.com/JoHof/stacl/blob/master/figures/toy_2_generated.jpg)
+
+When only one dataset is availabe ans subsampling is performed:
+![Toy 1](https://github.com/JoHof/stacl/blob/master/figures/toy_1_subsampled.jpg)
+![Toy 2](https://github.com/JoHof/stacl/blob/master/figures/toy_2_subsampled.jpg)
+
+The challenging birch3 dataset:
+![Birch3](https://github.com/JoHof/stacl/blob/master/figures/birch3.jpg)
