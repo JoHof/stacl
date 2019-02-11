@@ -1,5 +1,5 @@
 # stacl
-A consensus clustering algorithm based on stabiliy criteria. The current implementation uses k-means as backend clustering algorithm, howerver any clustering algorithm can be used.
+A consensus clustering algorithm based on stabiliy criteria. The current implementation uses k-means as backend clustering algorithm, howerver alternative clustering algorithms could be used. The number of clusters is estimated automatically.
 
 ## Getting Started
 
