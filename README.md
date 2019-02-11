@@ -21,5 +21,5 @@ When only one dataset is availabe and subsampling is performed:
 ![Toy 1](https://github.com/JoHof/stacl/blob/master/figures/toy_1_subsampled.jpg)
 ![Toy 2](https://github.com/JoHof/stacl/blob/master/figures/toy_2_subsampled.jpg)
 
-The challenging birch3 dataset:
+The challenging birch3 dataset (subsampling):
 ![Birch3](https://github.com/JoHof/stacl/blob/master/figures/birch3.jpg)
