@@ -6,6 +6,7 @@ A consensus clustering algorithm based on stabiliy criteria. The current impleme
 - [Getting Started](#getting-started)
 - [Examples](#examples)
 - [Comparison to HDBSCAN](#comparison-to-hdbscan)
+- [Citation](#citation)
 
 ## Getting Started
 
@@ -34,3 +35,10 @@ Results for the toy datasets using HDBSCAN:
 ![Birch3](https://github.com/JoHof/stacl/blob/master/figures/birch3_hdbscan.jpg)
 ![Toy 1](https://github.com/JoHof/stacl/blob/master/figures/toy1_hdbscan.jpg)
 ![Toy 2](https://github.com/JoHof/stacl/blob/master/figures/toy2_hdbscan.jpg)
+
+## Citation
+```tex
+@book{hofmanninger:2019,
+        Title = {Unsupervised Machine Learning in Large-Scale Routine Data Identifies Image Signatures and Phenotypes that Predict Outcome},
+        Year = {2019}}
+```
