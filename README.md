@@ -18,9 +18,7 @@ When data can be generated:
 ![Toy 2](https://github.com/JoHof/stacl/blob/master/figures/toy_2_generated.jpg)
 
 When only one dataset is availabe and subsampling is performed:
-Note that we used equal threshold and subsampling parameters for all examples with subsampling (toy1, toy2 and birch3). Tuning these parameters would improve clustering quality (e.g. for toy1)
+The birch3 datset (http://cs.joensuu.fi/sipu/datasets/):
+![Birch3](https://github.com/JoHof/stacl/blob/master/figures/birch3.jpg)
 ![Toy 1](https://github.com/JoHof/stacl/blob/master/figures/toy_1_subsampled.jpg)
 ![Toy 2](https://github.com/JoHof/stacl/blob/master/figures/toy_2_subsampled.jpg)
-
-The challenging birch3 dataset (subsampling):
-![Birch3](https://github.com/JoHof/stacl/blob/master/figures/birch3.jpg)
