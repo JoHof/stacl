@@ -37,8 +37,8 @@ Results for the toy datasets using HDBSCAN:
 ![Toy 2](https://github.com/JoHof/stacl/blob/master/figures/toy2_hdbscan.jpg)
 
 ## Citation
-```tex
-@book{hofmanninger:2019,
+```
+@article{hofmanninger:2019,
         Title = {Unsupervised Machine Learning in Large-Scale Routine Data Identifies Image Signatures and Phenotypes that Predict Outcome},
         Year = {2019}}
 ```
