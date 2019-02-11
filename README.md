@@ -22,3 +22,8 @@ When only one dataset is availabe and subsampling is performed:
 ![Birch3](https://github.com/JoHof/stacl/blob/master/figures/birch3.jpg)
 ![Toy 1](https://github.com/JoHof/stacl/blob/master/figures/toy_1_subsampled.jpg)
 ![Toy 2](https://github.com/JoHof/stacl/blob/master/figures/toy_2_subsampled.jpg)
+
+## Comparison to HDBSCAN
+![Birch3](https://github.com/JoHof/stacl/blob/master/figures/birch3_hdbscan.jpg)
+![Toy 1](https://github.com/JoHof/stacl/blob/master/figures/toy1_hdbscan.jpg)
+![Toy 2](https://github.com/JoHof/stacl/blob/master/figures/toy2_hdbscan.jpg)
