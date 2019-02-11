@@ -1,5 +1,5 @@
 # stacl
-A consensus clustering algorithm based on stabiliy criteria. The current implementation uses k-means as backend clustering algorithm, howerver alternative clustering algorithms could be used. The number of clusters is estimated automatically.
+A consensus clustering algorithm based on stabiliy criteria. The current implementation uses k-means as backend clustering algorithm, howerver alternative clustering algorithms could be used. The number of clusters is estimated automatically. The algorithm aims to identify the smallest stable clusters in the dataset.
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ When data can be generated:
 ![Toy 2](https://github.com/JoHof/stacl/blob/master/figures/toy_2_generated.jpg)
 
 When only one dataset is availabe and subsampling is performed:
-The birch3 datset (http://cs.joensuu.fi/sipu/datasets/):
+<br />-The birch3 datset (http://cs.joensuu.fi/sipu/datasets/)
 ![Birch3](https://github.com/JoHof/stacl/blob/master/figures/birch3.jpg)
 ![Toy 1](https://github.com/JoHof/stacl/blob/master/figures/toy_1_subsampled.jpg)
 ![Toy 2](https://github.com/JoHof/stacl/blob/master/figures/toy_2_subsampled.jpg)
