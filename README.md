@@ -1,6 +1,12 @@
 # stacl
 A consensus clustering algorithm based on stabiliy criteria. The current implementation uses k-means as backend clustering algorithm, howerver alternative clustering algorithms could be used. The number of clusters is estimated automatically. The algorithm aims to identify the smallest stable clusters in the dataset.
 
+## Contents
+
+- [Getting Started](#getting-started)
+- [Examples](#examples)
+- [Comparison to HDBSCAN](#comparison-to-hdbscan)
+
 ## Getting Started
 
 This is a Matlab(c) implementation and works with Matlab 2015 and newer. Input to the clustering algorithm can be either:
